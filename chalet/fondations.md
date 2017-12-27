@@ -12,7 +12,7 @@ Nous avons donc opté pour quatre semelles parallèles. Cela nécessite donc plu
 
 # Semelles
 
-La première étape consiste donc à creuser les tranchées qui vont accueillir les semelles, c'est à dire la partie basse, posée sur le sol et qui supportera le mur de soubassement. Nous avons opté pour des semelles de 40x30&nbsp;cm après moultes recherches sur internet, dans les livres et dans notre réseau de connaissances, en fonction du poids final du chalet (environ 20 tonnes) et la portance <u>estimée</u> du sol de 0.2&nbsp;N.mm<sup>-2</sup>.
+La première étape consiste donc à creuser les tranchées qui vont accueillir les semelles, c'est-à-dire la partie basse, posée sur le sol et qui supportera le mur de soubassement. Nous avons opté pour des semelles de 40x30&nbsp;cm après moultes recherches sur internet, dans les livres et dans notre réseau de connaissances, en fonction du poids final du chalet (environ 20 tonnes) et la portance <u>estimée</u> du sol de 0.2&nbsp;N.mm<sup>-2</sup>.
 
 Pour deux des quatre semelles, nous n'avons pas pu faire autrement que de les attaquer avec la minipelle disposée perpendiculairement à la semelle, ce qui produit des tranchées bien plus larges que la semelle, il a donc fallu prévoir un coffrage. Attention, le temps de coffrage n'est pas aussi court qu'il n'y parait, il faut s'assurer d'avoir les bonnes dimensions et de produire un coffrage suffisamment renforcé pour tenir la poussée verticale du béton sur les parois.
 
