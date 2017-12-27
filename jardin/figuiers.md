@@ -8,7 +8,7 @@ Les anciens propriétaires avaient planté des figuiers sur le terrain, nous avo
 
 <img src="images/jardin/figuiers_avant.jpg" alt="figuiers avant"/>
 
-Finalement, en les déracinant, on s'est rendu compte qu'il y avait en fait quatre figuiers, mêlés deux à deux. Nous avons donc tenté de transplanter les quatres dans des endroits différents du terrain pour maximiser la chance qu'ils reprennent.
+Finalement, en les déracinant, on s'est rendu compte qu'il y avait en fait quatre figuiers, mêlés deux à deux. Nous avons donc tenté de transplanter les quatre dans des endroits différents du terrain pour maximiser la chance qu'ils reprennent.
 
 <img src="images/jardin/figuiers.jpg" alt="photo nouveaux emplacements figuiers" style="width:400px"/>
 
