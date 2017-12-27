@@ -4,13 +4,13 @@ tags: outillage
 
 # Achat de la tronçonneuse
 
-Après avoir glané des informations pendant plusieurs semaines sur internet et auprès d'un collègue de travail forestier (merci Clément), nous avons franchit le pas : nous avons fais l'acquisition d'une tronçonneuse.
+Après avoir glané des informations pendant plusieurs semaines sur internet et auprès d'un collègue de travail forestier (merci Clément), nous avons franchi le pas : nous avons fait l'acquisition d'une tronçonneuse.
 
 Nous allons essayer d'acheter le plus local possible, et sur ce coup nous n'avons pas été déçus. Je recommande vivement la société [LACOMBE MOTOCULTURE](http://www.lacombe-motoculture.fr/) à Amplepuis. Le patron nous a renseigné longuement lors d'une première visite et a pris le temps de donner des explications sur l'utilisation, la sécurité et la maintenance de la machine. C'est agréable d'être accompagné par un professionnel sympathique et investi.
 
-La machine est achetée neuve, mais sur ce type d'achat, nous préférons miser sur un produit de qualité, durable, réparable et efficace. La marque [STIHL](http://www.stihl.fr/) est la référence dans ce domaine et apporte ces garanties. Par contre leur vidéo promotionnelles sont vraiment montées à l'hollywoodienne, c'est un peu too much pour nous :)
+La machine est achetée neuve, mais sur ce type d'achat, nous préférons miser sur un produit de qualité, durable, réparable et efficace. La marque [STIHL](http://www.stihl.fr/) est la référence dans ce domaine et apporte ces garanties. Par contre leurs vidéos promotionnelles sont vraiment montées à l'hollywoodienne, c'est un peu too much pour nous :)
 
-Nous avons profité d'une promotion à l'occasion de la "fête du bois" de la marque qui apparement se produit chaque année à la même période.
+Nous avons profité d'une promotion à l'occasion de la "fête du bois" de la marque qui apparemment se produit chaque année à la même période.
 
 Voici la bête avec l'attirail de sécurité :
 
@@ -31,7 +31,7 @@ il manque :
 
 que nous allons devoir trouver sans cuir, parce que le véganisme ça marche aussi pour l'outillage.
 
-J'ai déjà fait un test de découpe sur chevalet et c'est clair que la scie à bûche faisait pas la maline ! Mais on va pas la remplacer pour autant, La tronçonneuse est pas là pour qu'on devienne fainéants mais pour nous ouvrir d'autres possibilités. Parce que ça mange de l'huile, de l'essence et ça rejette des gaz nocifs, donc niveau écologique, la scie a bûche a encore son mot à dire tant qu'il s'agit pas de couper d'abattre des Douglas et de découper les [dosses](https://fr.wiktionary.org/wiki/dosse).
+J'ai déjà fait un test de découpe sur chevalet et c'est clair que la scie à bûche faisait pas la maline ! Mais on va pas la remplacer pour autant, la tronçonneuse est pas là pour qu'on devienne fainéants mais pour nous ouvrir d'autres possibilités. Parce que ça mange de l'huile, de l'essence et ça rejette des gaz nocifs, donc niveau écologique, la scie a bûche a encore son mot à dire tant qu'il s'agit pas d'abattre des Douglas et de découper les [dosses](https://fr.wiktionary.org/wiki/dosse).
 
 Et avec tout ça on peut se faire plaisir dans les arbres aussi :
 
