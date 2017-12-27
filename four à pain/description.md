@@ -4,11 +4,11 @@ tags: description
 
 # Four à pain
 
-C'est un bâtiment que l'on retrouve typiquement dans les corps de ferme de la région. Il est séparé de la maison et participe à la création de la cours intérieure. Voici une photo prise depuis la cours, avec le sud/est pile en face :
+C'est un bâtiment que l'on retrouve typiquement dans les corps de ferme de la région. Il est séparé de la maison et participe à la création de la cour intérieure. Voici une photo prise depuis la cour, avec le sud-est pile en face :
 
-<img src="images/four_a_pain/batiment.jpg" alt="batiment vu de la cours"/>
+<img src="images/four_a_pain/batiment.jpg" alt="batiment vu de la cour"/>
 
-Les maçonneries sont assez bien conservées, mais la toiture prend l'eau. Bien qu'elle ait essuyé un incendie il y a de nombreuses années, la charpent tient bon et nous avons bon espoir d'en conserver certaines parties.
+Les maçonneries sont assez bien conservées, mais la toiture prend l'eau. Bien qu'elle ait essuyé un incendie il y a de nombreuses années, la charpente tient bon et nous avons bon espoir d'en conserver certaines parties.
 
 <img src="images/four_a_pain/face.jpg" alt="vue intérieure de face"/>
 
