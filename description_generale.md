@@ -4,7 +4,7 @@ tags: description
 
 # Description générale
 
-Cette ancienne ferme se trouve sur un terrain de 7200 m<sup>2</sup> dont 60 % de la surface est boisée. L'orientation Sud-Est apporte un bon ensoleillement. Le bâti se trouve à flan d'une colline dont le point le plus haut se trouve au Nord. De ce fait, l'ensemble est protégé des vents froids locaux provenant du Nord et de l'Ouest. Les anciens du coin racontent d'ailleurs que le jardin potager de cette ferme était toujours précoce.
+Cette ancienne ferme se trouve sur un terrain de 7200 m<sup>2</sup> dont 60 % de la surface est boisée. L'orientation Sud-Est apporte un bon ensoleillement. Le bâti se trouve à flanc d'une colline dont le point le plus haut se trouve au Nord. De ce fait, l'ensemble est protégé des vents froids locaux provenant du Nord et de l'Ouest. Les anciens du coin racontent d'ailleurs que le jardin potager de cette ferme était toujours précoce.
 
 <img src="images/photo_aerienne.jpg"/>
 
@@ -29,7 +29,7 @@ Voici des liens permettant d'accéder à tous les articles pour chaque bâtiment
 
 # Histoire du lieu
 
-Les prairies qui entourent la ferme appartenaient autrefois à la famille qui y vivaients. Ces terres étaient alors cultivées à l'aide d'engins tractés par des boeufs, celà jusqu'au rachat des terres en 2005 à la mort du dernier exploitant de la famille. Dernier vestige local d'un mode de vie rustique, il dormait dans l'étable avec les animaux et avait la réputation de ne garder pour se nourrir que les produits les moins valorisables à la revente.
+Les prairies qui entourent la ferme appartenaient autrefois à la famille qui y vivait. Ces terres étaient alors cultivées à l'aide d'engins tractés par des boeufs, cela jusqu'au rachat des terres en 2005 à la mort du dernier exploitant de la famille. Dernier vestige local d'un mode de vie rustique, il dormait dans l'étable avec les animaux et avait la réputation de ne garder pour se nourrir que les produits les moins valorisables à la revente.
 
 # L'emprunt
 
@@ -37,7 +37,7 @@ Nous nous sommes d'abord orientés vers un courtier. Sa rémunération est de 35
 
 Nous avons choisi une offre du crédit coopératif qui était identique à l'exception de l'assurance plus chère de 2000 euros. L'assurance peut être renégociée dans l'année qui suit la signature du prêt depuis l'application de la [loi Hamon](https://fr.wikipedia.org/wiki/Loi_Hamon), mais nous n'avons pas prévu de faire les démarches à ce jour, le gain espérable ne justifiant pas le temps à passer pour l'obtenir.
 
-En résumé, l'offre les la suivante :
+En résumé, l'offre est la suivante :
 
  * montant = 87 000 euros
  * durée = 84 mois (7 ans)
@@ -47,7 +47,7 @@ En résumé, l'offre les la suivante :
 
 ## Report de la signature
 
-Au moment du compromis (21 juiller 2016), un délai de trois mois a été accordé pour obtenir tous les justificatifs nécessaires, soit :
+Au moment du compromis (21 juillet 2016), un délai de trois mois a été accordé pour obtenir tous les justificatifs nécessaires, soit :
 
  * l'offre de prêt validée (délai variable)
  * la réponse concernant la préemption de la SAFER (2 mois non compressibles)
