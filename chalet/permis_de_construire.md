@@ -9,7 +9,7 @@ Le chalet pourrait avoir une taille inférieure à 20 m<sup>2</sup> pour éviter
 - plus de limite de surface
 - moins de risque de refus
 
-Concernant la surface, rappelons nous qu'il s'agit d'y vivre pendant la durée des travaux. 
+Concernant la surface, rappelons-nous qu'il s'agit d'y vivre pendant la durée des travaux. 
 
 ## Visite conseil
 
@@ -17,16 +17,16 @@ La communauté de commune dont nous dépendons (COPLER), propose un entretien d'
 
 En effet, il est possible de faire appel à un architecte (c'est d'ailleurs obligatoire à partir de certaines conditions, notamment concernant la surface habitable après travaux) ou même à des bureaux spécialisés dans la réalisation de permis de construire. On en trouve sur internet, et les tarifs ne semblent pas délirants par rapport au temps que cela prend. Toutefois, les petits ruisseaux faisant les grandes rivières, c'est aussi le cumul des petits frais qui finit par mettre à genoux les économies. Nous n'avons pas identifié de risque à le faire nous même et l'accompagnement de la COPLER est très rassurante.
 
-Nous avons donc réalisé une première version de la demande de permis de construire, et prérempli le CERFA correspondant. La visite s'est déroulée dans les locaux de la COPLER, et, une fois de plus, nous avons rencontrés des personnes avenantes, conciliantes et sympathiques.
+Nous avons donc réalisé une première version de la demande de permis de construire, et prérempli le CERFA correspondant. La visite s'est déroulée dans les locaux de la COPLER, et, une fois de plus, nous avons rencontré des personnes avenantes, conciliantes et sympathiques.
 
-Nous sommes venus directement avec l'ordinateur portable contenant les documents et nous avons analysé le contenu avec la personne en charge de l'urbanisme pendant environ une heure. C'est très pertinent car les conseils que nous recevons sont donnés par une personne qui fera parti de la commission qui procédera à la validation du dossier. Cela permet de ne pas s'attarder sur des détails qui ne les intéressent pas et surtout de ne pas passer à côté de ce qui est vraiment utile pour eux.
+Nous sommes venus directement avec l'ordinateur portable contenant les documents et nous avons analysé le contenu avec la personne en charge de l'urbanisme pendant environ une heure. C'est très pertinent car les conseils que nous recevons sont donnés par une personne qui fera partie de la commission qui procédera à la validation du dossier. Cela permet de ne pas s'attarder sur des détails qui ne les intéressent pas et surtout de ne pas passer à côté de ce qui est vraiment utile pour eux.
 
-Ce premier jet était plutôt complet, bien que manquant de légendes, de quelques tracés et cotes qui ont leur importance. Cela a surtout été l'occasion de remplir le CERFA qui est un document compliqué de 17 pages avec une documentation de 42 pages disponible sur [service-public.fr]("https://www.service-public.fr/particuliers/vosdroits/F1986). Certes, c'est bien qu'il y ait une documentation, mais l'administratif en France reste toujours une pénitence et un recueil de jargon et de concepts qui ne sont pas à la portée des citoyens.
+Ce premier jet était plutôt complet, bien que manquant de légendes, de quelques tracés et cotes qui ont leur importance. Cela a surtout été l'occasion de remplir le CERFA qui est un document compliqué de 17 pages avec une documentation de 42 pages disponible sur [service-public.fr](https://www.service-public.fr/particuliers/vosdroits/F1986). Certes, c'est bien qu'il y ait une documentation, mais l'administratif en France reste toujours une pénitence et un recueil de jargon et de concepts qui ne sont pas à la portée des citoyens.
 
 ## La demande de permis de construire
 
-Les plans ont été réalisés avec les logiciels libres Inkscape, Gimp et LibreOffice. Pour ceux que ça intéresse, vous pouvez télécharger le dossier [ici]({filename}/images/permis_construire/dossier_demande.pdf). Il n'y a que le dossier contenant les plans et la description, le CERFA n'a pas vraiment d'intérêt à être partagé.
-Voici quelques examples de plans qui se trouvent dans le dossier :
+Les plans ont été réalisés avec les logiciels libres [Inkscape](https://inkscape.org/fr/), [Gimp](https://www.gimp.org) et [LibreOffice](https://fr.libreoffice.org). Pour ceux que ça intéresse, vous pouvez télécharger le dossier [ici]({filename}/images/permis_construire/dossier_demande.pdf). Il n'y a que le dossier contenant les plans et la description, le CERFA n'a pas vraiment d'intérêt à être partagé.
+Voici quelques exemples de plans qui se trouvent dans le dossier :
 
 <b>un plan de masse :</b>
 <img src="images/permis_construire/plan_de_masse.png" alt="plan de masse"/>
