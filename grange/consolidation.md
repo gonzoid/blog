@@ -1,6 +1,6 @@
 title: Consolidation de la grange
 date: 2017-03-27
-tags: 
+tags: TODO
 
 # Consolidation du toit
 
@@ -12,7 +12,7 @@ Ici on peut voir que la panne est tombée, et le toit ne tient plus que grâce a
 
 Du coup, pour travailler en sécurité à la réfection du plancher, nous avons utilisé des plateaux de maçon de 4&nbsp;mètres pour soutenir le toit en se reposant sur le plancher :
 
-<img src="images/grange/consolidation_toit.jpg" alt=""/>
+<img src="images/grange/consolidation_toit.jpg" alt="TODO: corriger nom du fichier image"/>
 
 Le plancher du dessous étant lui aussi naturellement tout pourri, nous avons dû le consolider au préalable.
 

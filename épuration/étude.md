@@ -1,6 +1,6 @@
 title: Visite d'étude pour l'épuration
 date: 2016-11-10
-tags: TODO
+tags:
 
 # Visite d'étude pour l'épuration
 

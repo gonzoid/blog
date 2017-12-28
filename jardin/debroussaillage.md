@@ -43,7 +43,7 @@ Et après quelques passages et quelques interventions d'entretien :
 
 Une dernière pour la route, il s'agit de la servitude que nous avons déplacée, cette fois-ci, c'est le voisin qui l'a désherbé au tracteur avant même qu'on ne le rencontre :
 
-<img src="images/avant_debroussaillage2.jpg" alt="servitude avant"/>
-<img src="images/apres_debroussaillage2.jpg" alt="servitude apres"/>
+<img src="images/jardin/avant_debroussaillage2.jpg" alt="servitude avant"/>
+<img src="images/jardin/apres_debroussaillage2.jpg" alt="servitude apres"/>
 
 C'est clair qu'en visitant la maison la première fois, on n'avait pas du tout la même impression. Au final ça va dans le bon sens, parce que c'est plus grand que ce qu'on imaginait initialement.

@@ -1,6 +1,6 @@
 title: Terrassement des bacs
 date: 2017-07-21
-tags:
+tags: TODO
 
 # Terrassement des bacs
 
@@ -12,7 +12,7 @@ La photo suivante montre le résultat une fois le terrassement terminé. On peut
 
 <img src="images/epuration/terrassement_brut.JPG"/>
 
-Avant de pouvoir placer les bacs, on dépose au fond un lit de sable pour éviter que des cailloux ne transpercent les bacs, l'étanchéité ne doit pas être compromise. On peut voir une autre minipelle (2 tonnes) qui nous a servi à mettre les bacs dans les trous. On l'avait loué dans la foulée pour faire [la tranchée]({filename}/XXX).
+Avant de pouvoir placer les bacs, on dépose au fond un lit de sable pour éviter que des cailloux ne transpercent les bacs, l'étanchéité ne doit pas être compromise. On peut voir une autre minipelle (2 tonnes) qui nous a servi à mettre les bacs dans les trous. On l'avait loué dans la foulée pour faire [la tranchée]({filename}/TODO).
 
 <img src="images/epuration/preparation_deplacement.JPG"/>
 

@@ -1,6 +1,6 @@
 title: 4x4 et remorque
 date: 2016-12-21
-tags: xxx
+tags: TODO
 
 # Le 4x4
 
@@ -43,5 +43,5 @@ Et tant qu'à faire on a investi dans une remorque neuve au passage, comme ça o
 
 Notez la largeur légèrement supérieure à 1,25&nbsp;m qui se révèle cruciale pour transporter à plat des plaques d'OSB (ou de placo mais nous n'en utiliserons pas), sinon c'est vraiment l'échec.
 
-<img src="images/remorque.jpg" alt="photo de la remorque a venir"/>
+<img src="images/remorque.jpg" alt="TODO: photo de la remorque a venir"/>
 
