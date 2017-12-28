@@ -30,7 +30,7 @@ On a eu beau réfléchir au plan d'abattage, sur le terrain on voit plus de chos
 
 ## Débardage
 
-Pour le débardage, nous avons rentabilisé [le 4x4]({filename}/vitara.md) :
+Pour le débardage, nous avons rentabilisé [le 4x4]({filename}/quotidien/vitara.md) :
 
 <video src="images/foret/debardage_4x4_1.mp4" controls ></video>
 

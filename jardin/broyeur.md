@@ -21,6 +21,6 @@ On va laisser ça composter tranquillement mais on en a rapidement utilisé pour
 
 <img src="images/jardin/broyeur_tas.JPG" alt=""/>
 
-On a une fois de plus rentabilisé [le 4x4]({filename}/vitara.md), on a fait le tour du terrain pour aller d'une zone de broyage à l'autre. On avait en effet préparé des tas à différents endroits. Notamment les tas de ronces qu'on a chargé à la fourche dans l'engin, et des branchages de frêne qui font, eux, un super paillis pour le jardin.
+On a une fois de plus rentabilisé [le 4x4]({filename}/quotidien/vitara.md), on a fait le tour du terrain pour aller d'une zone de broyage à l'autre. On avait en effet préparé des tas à différents endroits. Notamment les tas de ronces qu'on a chargé à la fourche dans l'engin, et des branchages de frêne qui font, eux, un super paillis pour le jardin.
 
 <img src="images/jardin/broyeur_4x4.JPG" alt=""/>
