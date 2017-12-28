@@ -12,7 +12,7 @@ Normalement, on est censé utiliser une machine pour "carder la ouate", c'est-à
 
 <img src="images/chalet/plancher/ouate.JPG"/>
 
-Et voici une photo du chantier en cours, le coin foisonnage se trouve à droite, pendant ce temps, une personne fait les aller-retours avec des sauts pour tasser la ouate et une autre personne place les panneaux. Il faut bien mettre du joint sur les contours encore, pour garantir l'étanchéité à l'air, autrement les pertes thermiques seraient terribles et l'isolant s'abîmerait très vite à cause de l'humidité qui pourrait pénétrer par l'extérieur.
+Et voici une photo du chantier en cours, le coin foisonnage se trouve à droite, pendant ce temps, une personne fait les aller-retours avec des seaux pour tasser la ouate et une autre personne place les panneaux. Il faut bien mettre du joint sur les contours encore, pour garantir l'étanchéité à l'air, autrement les pertes thermiques seraient terribles et l'isolant s'abîmerait très vite à cause de l'humidité qui pourrait pénétrer par l'extérieur.
 
 <img src="images/chalet/plancher/chantier_isolation.JPG"/>
 
