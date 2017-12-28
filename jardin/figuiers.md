@@ -1,8 +1,8 @@
-title: Transplantage des figuiers 
+title: Transplantation des figuiers 
 date: 2017-03-18
 tags: plantations
 
-# Transplantage des figuiers
+# Transplantation des figuiers
 
 Les anciens propriétaires avaient planté des figuiers sur le terrain, nous avons dû les déplacer pour deux raisons. D'une part, la tranchée d'infiltration de l'épuration se trouvera exactement à leur emplacement. D'autre part, il aurait fallu les déplacer tout de même, car ils étaient plantés très près et sous un pommier.
 
