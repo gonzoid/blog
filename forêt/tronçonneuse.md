@@ -6,7 +6,7 @@ tags: outillage
 
 Après avoir glané des informations pendant plusieurs semaines sur internet et auprès d'un collègue de travail forestier (merci Clément), nous avons franchi le pas : nous avons fait l'acquisition d'une tronçonneuse.
 
-Nous allons essayer d'acheter le plus local possible, et sur ce coup nous n'avons pas été déçus. Je recommande vivement la société [LACOMBE MOTOCULTURE](http://www.lacombe-motoculture.fr/) à Amplepuis. Le patron nous a renseigné longuement lors d'une première visite et a pris le temps de donner des explications sur l'utilisation, la sécurité et la maintenance de la machine. C'est agréable d'être accompagné par un professionnel sympathique et investi.
+Nous allons essayer d'acheter le plus local possible, et sur ce coup nous n'avons pas été déçus. Je recommande vivement la société [LACOMBE MOTOCULTURE](https://www.pagesjaunes.fr/pros/01640300) à Amplepuis. Le patron nous a renseigné longuement lors d'une première visite et a pris le temps de donner des explications sur l'utilisation, la sécurité et la maintenance de la machine. C'est agréable d'être accompagné par un professionnel sympathique et investi.
 
 La machine est achetée neuve, mais sur ce type d'achat, nous préférons miser sur un produit de qualité, durable, réparable et efficace. La marque [STIHL](http://www.stihl.fr/) est la référence dans ce domaine et apporte ces garanties. Par contre leurs vidéos promotionnelles sont vraiment montées à l'hollywoodienne, c'est un peu too much pour nous :)
 
