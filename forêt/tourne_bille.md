@@ -10,7 +10,7 @@ C'est un outil vraiment pratique pour déplacer les grumes/billes, bref les sect
 
 Du coup nous avons décidé d'en fabriquer. Oui on aurait pu en acheter mais pourquoi acheter quand on peut faire ?
 
-La base est une vieille pelle achetée 1 euro à Emmaüs, c'est pour avoir un manche avec la partie métallique qui va bien. Pour faire le crochet, nous avons utilisé des crochets de décoration achetés eux aussi à Emmaüs pour 1 euro. Ce sont des crochets qui ont été fabriqués à la main, ils sont légèrement différents, la personne qui les a fabriqués, on ne sait quand, n'imaginerait pas à quoi a servi son oeuvre :
+La base est une vieille pelle achetée 1&nbsp;euro à Emmaüs, c'est pour avoir un manche avec la partie métallique qui va bien. Pour faire le crochet, nous avons utilisé des crochets de décoration achetés eux aussi à Emmaüs pour 1&nbsp;euro. Ce sont des crochets qui ont été fabriqués à la main, ils sont légèrement différents, la personne qui les a fabriqués, on ne sait quand, n'imaginerait pas à quoi a servi son oeuvre :
 
 <img src="images/divers/tourne_bille1.JPG" alt="tourne bille"/>
 <img src="images/divers/tourne_bille2.JPG" alt="tourne bille"/>

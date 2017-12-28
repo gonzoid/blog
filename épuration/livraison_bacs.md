@@ -6,11 +6,11 @@ tags:
 
 Le système à filtres plantés que nous allons mettre en place est constitué par deux éléments : des bacs de filtration et une tranchée d'infiltration.
 
-Les bacs font environ 2.5 mètres de côté (et 90 centimètres de hauteur), c'est à peu de chose près la largeur de la dernière partie du chemin, du coup l'artisan avait prévu le coup et il a carrément transporté les bacs avec la minipelle qu'il avait pris le soin de prendre :
+Les bacs font environ 2.5&nbsp;mètres de côté (et 90&nbsp;centimètres de hauteur), c'est à peu de chose près la largeur de la dernière partie du chemin, du coup l'artisan avait prévu le coup et il a carrément transporté les bacs avec la minipelle qu'il avait pris le soin de prendre :
 
 <img src="images/epuration/bacs_chemin.JPG"/>
 
-Et une petite vidéo pour voir la vitesse réelle à laquelle ça se passe, on a pas le prix exact mais on pense qu'un bac doit sûrement pas valoir moins de 800 euros, et le moindre coup peut le rendre inutilisable :
+Et une petite vidéo pour voir la vitesse réelle à laquelle ça se passe, on a pas le prix exact mais on pense qu'un bac doit sûrement pas valoir moins de 800&nbsp;euros, et le moindre coup peut le rendre inutilisable :
 
 <video src="images/epuration/passage_etroit.mp4" controls></video>
 

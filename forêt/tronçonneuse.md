@@ -18,15 +18,15 @@ Voici la bête avec l'attirail de sécurité :
 
 Pour l'instant il y a :
 
-- la tronçonneuse MS 261 C-M, 760 € (et qui rapporte 70 € en bon d'achat)
-- le pantalon, 79 € en promo - 70 € en bon d'achat = 9 € !!!
-- le casque complet (avec grille et protection antibruit), 40 € en promo
+- la tronçonneuse MS 261 C-M, 760&nbsp;€ (et qui rapporte 70&nbsp;€ en bon d'achat)
+- le pantalon, 79&nbsp;€ en promo - 70&nbsp;€ en bon d'achat = 9&nbsp;€ !!!
+- le casque complet (avec grille et protection antibruit), 40&nbsp;€ en promo
 - porte lime, huile moteur et huile chaîne
 - un super calendrier offert par le magasin et qui va bien nous servir :)
 
 il manque :
 
-- <s>les chaussures de sécurité</s>, achetées 5 euros la paire sur le bon coin !!!
+- <s>les chaussures de sécurité</s>, achetées 5&nbsp;euros la paire sur le bon coin !!!
 - les gants de sécurité
 
 que nous allons devoir trouver sans cuir, parce que le véganisme ça marche aussi pour l'outillage.

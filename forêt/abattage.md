@@ -4,7 +4,7 @@ tags:
 
 # Les arbres près de la maison
 
-Le premier chantier d'abattage concerne les arbres situés tout près de la maison. Il y a 9 douglas situés à 3 mètres du mur Est, certaines racines imposantes vont tout droit dans les fondations.
+Le premier chantier d'abattage concerne les arbres situés tout près de la maison. Il y a 9 douglas situés à 3&nbsp;mètres du mur Est, certaines racines imposantes vont tout droit dans les fondations.
 
 Ces arbres ont vraisemblablement été mis en jauge, cela dit nous ne savons pas d'où ils proviennent. Après les avoir coupés, le nombre de cernes indique un âge de 26 ans. Or la forêt a été plantée il y a 47 ans, ce qui a pu être vérifié en comptant les cernes. Nous pensons que l'ancien propriétaire ait repiqué des jeunes pousses dans le but de compenser une coupe ou des dégâts dus à des phénomènes naturels.
 
@@ -24,7 +24,7 @@ Cet arbre, le plus gros, partait en deux troncs assez rapidement, il s'est total
 
 <img src="images/foret/premier_arbre_casse.JPG" alt="premier arbre casse"/>
 
-On a eu beau réfléchir au plan d'abattage, sur le terrain on voit plus de choses. Par exemple, c'est une fois que le premier arbre était tombé qu'on s'est rendu compte qu'on pouvait câbler les autres sur ce dernier afin de les guider dans leur chute. C'est ce qu'on a fait avec un tirefort loué 30 euros : c'est un outil indispensable, pratique et efficace. On peut en louer sur leboncoin, nous avons pu le louer au magasin qui nous a vendu la tronçonneuse. Pour attacher les arbres, nous avons utilisé des câbles prêtés gracieusement par le GAEC [le bouc et la treille](http://www.leboucetlatreille.fr/). L'échelle, c'est un super investissement !!!
+On a eu beau réfléchir au plan d'abattage, sur le terrain on voit plus de choses. Par exemple, c'est une fois que le premier arbre était tombé qu'on s'est rendu compte qu'on pouvait câbler les autres sur ce dernier afin de les guider dans leur chute. C'est ce qu'on a fait avec un tirefort loué 30&nbsp;euros : c'est un outil indispensable, pratique et efficace. On peut en louer sur leboncoin, nous avons pu le louer au magasin qui nous a vendu la tronçonneuse. Pour attacher les arbres, nous avons utilisé des câbles prêtés gracieusement par le GAEC [le bouc et la treille](http://www.leboucetlatreille.fr/). L'échelle, c'est un super investissement !!!
 
 <img src="images/foret/tirefort.JPG" alt"tirefort" style="width:400px"/>
 

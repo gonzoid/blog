@@ -20,7 +20,7 @@ Et voilà l'engin, une fois réalisé :
 
 <img src="images/divers/dedosseuse.jpg" alt="dedosseuse"/>
 
-Les réglages permettent d'utiliser un guide de largeur variable jusqu'à 10 cm et de découper des grumes plus ou moins larges.
+Les réglages permettent d'utiliser un guide de largeur variable jusqu'à 10&nbsp;cm et de découper des grumes plus ou moins larges.
 
 C'est le premier vrai projet mené avec le poste à souder qu'on a acheté en prévision des divers besoins de fabrication et réparation :
 

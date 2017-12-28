@@ -16,7 +16,7 @@ Avant de pouvoir placer les bacs, on dépose au fond un lit de sable pour évite
 
 <img src="images/epuration/preparation_deplacement.JPG"/>
 
-Dernière étape avant de poser les bacs : le nivelage du fond. Il faut obtenir une pente entre 2 % et 4 % afin de garantir que l'écoulement puisse se faire en direction de la tranchée d'infiltration. La technique consiste à utiliser des tasseaux plus ou moins enterrés dans le sable, et sur lesquels on fait glisser une règle pour "tirer" le sable comme on le ferait pour une dalle.
+Dernière étape avant de poser les bacs : le nivelage du fond. Il faut obtenir une pente entre 2&nbsp;% et 4&nbsp;% afin de garantir que l'écoulement puisse se faire en direction de la tranchée d'infiltration. La technique consiste à utiliser des tasseaux plus ou moins enterrés dans le sable, et sur lesquels on fait glisser une règle pour "tirer" le sable comme on le ferait pour une dalle.
 
 <img src="images/epuration/nivelage_fond.JPG"/>
 

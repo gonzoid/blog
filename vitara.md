@@ -6,9 +6,9 @@ tags: xxx
 
 Et oui, tout peut arriver, même l'achat d'un 4x4 par des écolos ! Nous avons en effet franchi la ligne à ne pas franchir MAIS nous avons une bonne raison et des circonstances atténuantes.
 
-D'une part, nous avons un vrai besoin : transporter des remorques de matériaux dans un chemin en terre de 350 mètres de long trop étroit pour être emprunté par des poids lourds. C'est une absolue nécessité, un simple véhicule utilitaire aurait été plus pratique mais n'aurait pas été adapté au terrain. On va pouvoir tracter des trucs sur le terrain, dessoucher quelques petits arbres et tracter la caravane jusqu'à l'endroit rêvé.
+D'une part, nous avons un vrai besoin : transporter des remorques de matériaux dans un chemin en terre de 350&nbsp;mètres de long trop étroit pour être emprunté par des poids lourds. C'est une absolue nécessité, un simple véhicule utilitaire aurait été plus pratique mais n'aurait pas été adapté au terrain. On va pouvoir tracter des trucs sur le terrain, dessoucher quelques petits arbres et tracter la caravane jusqu'à l'endroit rêvé.
 
-Et pour la circonstance atténuante, nous avons opté pour un Suzuki Grand Vitara d'occasion (de 2001 et 250 000 km, pour 3500 euros), soit un véhicule relativement petit pour sa catégorie, avec motorisation essence réputée increvable, très peu d'électronique et donc un truc hyper réparable. Il consomme toutefois plus de 10 litres pour 100 kilomètres ce qui n'est pas bon du tout. Cela dit, après les travaux, nous ferons ensuite des trajets de 4 km en moyenne, et seulement quand le vélo sera en panne ou que le temps sera trop dur ! :) Enfin, il polluera aussi certainement moins que la Clio diesel qu'il va remplacer.
+Et pour la circonstance atténuante, nous avons opté pour un Suzuki Grand Vitara d'occasion (de 2001 et 250 000&nbsp;km, pour 3500&nbsp;euros), soit un véhicule relativement petit pour sa catégorie, avec motorisation essence réputée increvable, très peu d'électronique et donc un truc hyper réparable. Il consomme toutefois plus de 10&nbsp;litres pour 100&nbsp;kilomètres ce qui n'est pas bon du tout. Cela dit, après les travaux, nous ferons ensuite des trajets de 4&nbsp;km en moyenne, et seulement quand le vélo sera en panne ou que le temps sera trop dur ! :) Enfin, il polluera aussi certainement moins que la Clio diesel qu'il va remplacer.
 
 Par contre ça prend du temps, il ne faut pas le négliger, mais ça ouvre franchement le champ des possibles.
 
@@ -38,10 +38,10 @@ Sur celle-là, on voit qu'on l'utilise pour tracter la remorque :
 
 Et tant qu'à faire on a investi dans une remorque neuve au passage, comme ça on est équipé pour les travaux. Le marché de l'occasion est assez limité et on comprend vite que c'est typiquement un achat pour lequel il vaut mieux s'orienter sur du neuf.
 
-- dimensions utiles : 2,36 m x 1,29 m x 0,40 m
-- prix : 860 euros avec le porte échelle de série
+- dimensions utiles : 2,36&nbsp;m x 1,29&nbsp;m x 0,40&nbsp;m
+- prix : 860&nbsp;euros avec le porte échelle de série
 
-Notez la largeur légèrement supérieure à 1,25 m qui se révèle cruciale pour transporter à plat des plaques d'OSB (ou de placo mais nous n'en utiliserons pas), sinon c'est vraiment l'échec.
+Notez la largeur légèrement supérieure à 1,25&nbsp;m qui se révèle cruciale pour transporter à plat des plaques d'OSB (ou de placo mais nous n'en utiliserons pas), sinon c'est vraiment l'échec.
 
 <img src="images/remorque.jpg" alt="photo de la remorque a venir"/>
 

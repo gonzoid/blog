@@ -4,7 +4,7 @@ tags:
 
 # Permis de construire du chalet
 
-Le chalet pourrait avoir une taille inférieure à 20 m<sup>2</sup> pour éviter d'avoir à réaliser un permis de construire. Le délai d'instruction est alors celui d'une demande préalable, et n'est qu'une durée d'un mois, alors que pour un permis de construire, c'est deux mois. Cela dit, nous avons fait le choix de réaliser une demande de permis de construire pour deux raisons :
+Le chalet pourrait avoir une taille inférieure à 20&nbsp;m<sup>2</sup> pour éviter d'avoir à réaliser un permis de construire. Le délai d'instruction est alors celui d'une demande préalable, et n'est qu'une durée d'un mois, alors que pour un permis de construire, c'est deux mois. Cela dit, nous avons fait le choix de réaliser une demande de permis de construire pour deux raisons :
 
 - plus de limite de surface
 - moins de risque de refus
@@ -40,7 +40,7 @@ Voici quelques exemples de plans qui se trouvent dans le dossier :
 <b>un rendu :</b>
 <img src="images/permis_construire/rendu2.png" alt="rendu"/>
 
-Le dossier final doit contenir 4 exemplaires, et ça finit par faire un paquet de pages. Du coup c'est pas très écolo cette partie, on aurait pu envoyer le document en PDF, mais ça doit être envoyé en recommandé donc version papier obligatoire. Bilan, y'en a pour 40 euros d'impression pour environ 130 pages. Bienvenue dans l'ère du numérique... 
+Le dossier final doit contenir 4 exemplaires, et ça finit par faire un paquet de pages. Du coup c'est pas très écolo cette partie, on aurait pu envoyer le document en PDF, mais ça doit être envoyé en recommandé donc version papier obligatoire. Bilan, y'en a pour 40&nbsp;euros d'impression pour environ 130 pages. Bienvenue dans l'ère du numérique... 
 
 <b>beaucoup de papier :</b>
 <img src="images/permis_construire/papier.jpg" alt="beaucoup de papier"/>

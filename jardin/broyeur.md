@@ -5,7 +5,7 @@ tags:
 # Broyage de branches et ronces
 
 Après avoir abattu une quinzaine de douglas faisant entre 20 et 30 mètres de haut, on s'est retrouvé avec un paquet de branches sur les bras. Même combat pour les mètres cubes de ronces qu'on a fauchés pendant des semaines, ils ont beau avoir perdu du volume en séchant et en se compostant depuis l'été (nous sommes au printemps suivant), ça prend de la place et c'est pas très sympathique à vivre.
-Nous avons donc loué un broyeur chez notre fournisseur habituel chez qui nous avons acheté la tronçonneuse et loué le tirefort. C'est un broyeur à marteaux assez efficace, et il peut, à 145 euros la journée !
+Nous avons donc loué un broyeur chez notre fournisseur habituel chez qui nous avons acheté la tronçonneuse et loué le tirefort. C'est un broyeur à marteaux assez efficace, et il peut, à 145&nbsp;euros la journée !
 
 <video src="images/jardin/broyeur.mp4" controls ></video>
 

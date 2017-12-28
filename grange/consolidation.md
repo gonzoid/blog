@@ -10,7 +10,7 @@ Ici on peut voir que la panne est tombée, et le toit ne tient plus que grâce a
 
 <img src="images/grange/panne_chevron.jpg" alt=""/>
 
-Du coup, pour travailler en sécurité à la réfection du plancher, nous avons utilisé des plateaux de maçon de 4 mètres pour soutenir le toit en se reposant sur le plancher :
+Du coup, pour travailler en sécurité à la réfection du plancher, nous avons utilisé des plateaux de maçon de 4&nbsp;mètres pour soutenir le toit en se reposant sur le plancher :
 
 <img src="images/grange/consolidation_toit.jpg" alt=""/>
 

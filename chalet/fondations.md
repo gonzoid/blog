@@ -26,7 +26,7 @@ Pour couler les fondations, il nous a été très pratique de préparer un coin 
 
 <img src="images/chalet/fondations/betonniere.JPG"/>
 
-Nous avons utilisé un ferraillage standard (SL35), par contre les éléments vendus en magasin font 6 mètres de long donc pas évident à transporter. Il faut bien prendre soin que le ferraillage se trouve enrobé par au moins 2&nbsp;cm de béton pour éviter qu'il ne soit en contact avec l'air extérieur qui provoquerait une oxydation prématurée, qui altèrerait ses propriétés mécaniques. Pour l'autoconstructeur qui se pose la question : OUI, le ferraillage est nécessaire, le béton résiste très bien à la compression mais pas à la traction, la pression du mur sur la semelle doit être reprise par un ferraillage sinon la semelle risque de se déformer sous son poids.
+Nous avons utilisé un ferraillage standard (SL35), par contre les éléments vendus en magasin font 6&nbsp;mètres de long donc pas évident à transporter. Il faut bien prendre soin que le ferraillage se trouve enrobé par au moins 2&nbsp;cm de béton pour éviter qu'il ne soit en contact avec l'air extérieur qui provoquerait une oxydation prématurée, qui altèrerait ses propriétés mécaniques. Pour l'autoconstructeur qui se pose la question : OUI, le ferraillage est nécessaire, le béton résiste très bien à la compression mais pas à la traction, la pression du mur sur la semelle doit être reprise par un ferraillage sinon la semelle risque de se déformer sous son poids.
 
 <img src="images/chalet/fondations/ferraillage.JPG" style="width:400px"/>
 

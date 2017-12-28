@@ -4,7 +4,7 @@ tags: description
 
 # Description générale
 
-Cette ancienne ferme se trouve sur un terrain de 7200 m<sup>2</sup> dont 60 % de la surface est boisée. L'orientation Sud-Est apporte un bon ensoleillement. Le bâti se trouve à flanc d'une colline dont le point le plus haut se trouve au Nord. De ce fait, l'ensemble est protégé des vents froids locaux provenant du Nord et de l'Ouest. Les anciens du coin racontent d'ailleurs que le jardin potager de cette ferme était toujours précoce.
+Cette ancienne ferme se trouve sur un terrain de 7200&nbsp;m<sup>2</sup> dont 60&nbsp;% de la surface est boisée. L'orientation Sud-Est apporte un bon ensoleillement. Le bâti se trouve à flanc d'une colline dont le point le plus haut se trouve au Nord. De ce fait, l'ensemble est protégé des vents froids locaux provenant du Nord et de l'Ouest. Les anciens du coin racontent d'ailleurs que le jardin potager de cette ferme était toujours précoce.
 
 <img src="images/photo_aerienne.jpg"/>
 
@@ -33,17 +33,17 @@ Les prairies qui entourent la ferme appartenaient autrefois à la famille qui y 
 
 # L'emprunt
 
-Nous nous sommes d'abord orientés vers un courtier. Sa rémunération est de 350 euros en cas de validation de finalisation d'une offre, dans notre cas ce montant s'élevait à 150 euros du fait que nous venions sur recommandations d'un ancien client. Il nous a présenté une offre intéressante, mais nous avons finalement refusé pour des raisons éthiques. Vous pouvez vous rendre sur [financeresponsable.org](http://financeresponsable.org/entreprise.php) pour avoir un tableau comparatif des banques sur les volets écologique et éthique.
+Nous nous sommes d'abord orientés vers un courtier. Sa rémunération est de 350&nbsp;euros en cas de validation de finalisation d'une offre, dans notre cas ce montant s'élevait à 150&nbsp;euros du fait que nous venions sur recommandations d'un ancien client. Il nous a présenté une offre intéressante, mais nous avons finalement refusé pour des raisons éthiques. Vous pouvez vous rendre sur [financeresponsable.org](http://financeresponsable.org/entreprise.php) pour avoir un tableau comparatif des banques sur les volets écologique et éthique.
 
-Nous avons choisi une offre du crédit coopératif qui était identique à l'exception de l'assurance plus chère de 2000 euros. L'assurance peut être renégociée dans l'année qui suit la signature du prêt depuis l'application de la [loi Hamon](https://fr.wikipedia.org/wiki/Loi_Hamon), mais nous n'avons pas prévu de faire les démarches à ce jour, le gain espérable ne justifiant pas le temps à passer pour l'obtenir.
+Nous avons choisi une offre du crédit coopératif qui était identique à l'exception de l'assurance plus chère de 2000&nbsp;euros. L'assurance peut être renégociée dans l'année qui suit la signature du prêt depuis l'application de la [loi Hamon](https://fr.wikipedia.org/wiki/Loi_Hamon), mais nous n'avons pas prévu de faire les démarches à ce jour, le gain espérable ne justifiant pas le temps à passer pour l'obtenir.
 
 En résumé, l'offre est la suivante :
 
- * montant = 87 000 euros
+ * montant = 87 000&nbsp;euros
  * durée = 84 mois (7 ans)
- * taux = 0.93 %
- * frais de dossiers = 600 euros
- * assurance = décès, PTIA et ITT à 100 % pour les deux emprunteurs
+ * taux = 0.93&nbsp;%
+ * frais de dossiers = 600&nbsp;euros
+ * assurance = décès, PTIA et ITT à 100&nbsp;% pour les deux emprunteurs
 
 ## Report de la signature
 

@@ -25,11 +25,11 @@ Cette visite a lieu sur le terrain, la personne s'occupant du dossier se déplac
 
 ### 1. Pente du terrain
 
-La pente entre le départ des eaux usées dans le sol contre le mur de l'habitation et l'arrivée au niveau du filtre doit se situer entre 2 % et 4 %. Sur ce point nous sommes à la limite de manquer de pente mais ça reste suffisant. Si la pente naturelle n'est pas suffisante, il reste toujours la possibilité d'utiliser une pompe de relevage. Mais cela implique une dépendance à l'électricité, des frais d'installation plus élevés et un coût de maintenance supplémentaire.
+La pente entre le départ des eaux usées dans le sol contre le mur de l'habitation et l'arrivée au niveau du filtre doit se situer entre 2&nbsp;% et 4&nbsp;%. Sur ce point nous sommes à la limite de manquer de pente mais ça reste suffisant. Si la pente naturelle n'est pas suffisante, il reste toujours la possibilité d'utiliser une pompe de relevage. Mais cela implique une dépendance à l'électricité, des frais d'installation plus élevés et un coût de maintenance supplémentaire.
 
 Toutefois, vu que la pente n'est pas suffisamment grande, cela exclut la possibilité de réaliser des bacs maçonnés et nous devons nous rabattre sur l'achat de bacs en polyéthylène (surement du PEHD) qui, de plus, nous seront livrés en camion depuis le nord de la France. :(
 
-C'est un échec écologique, mais nous nous consolons avec le fait que les bacs sont recyclables en fin de vie et je reste persuadé que deux bacs carrés de 2,5 m de côté pour 1 m de profondeur restent moins coûteux écologiquement et énergétiquement que la fabrication d'une pompe électrique. On nous dit que des bacs en EPDM pourraient être utilisés dans les prochaines années, mais nous arrivons trop tôt pour ça.
+C'est un échec écologique, mais nous nous consolons avec le fait que les bacs sont recyclables en fin de vie et je reste persuadé que deux bacs carrés de 2,5&nbsp;m de côté pour 1&nbsp;m de profondeur restent moins coûteux écologiquement et énergétiquement que la fabrication d'une pompe électrique. On nous dit que des bacs en EPDM pourraient être utilisés dans les prochaines années, mais nous arrivons trop tôt pour ça.
 
 ### 2. Prélèvement du sol
 
@@ -39,14 +39,14 @@ Un peu de terre est prélevée dans des pots pour une analyse qualitative a post
 
 ### 3. Test d'infiltration
 
-Les carottages les plus importants se trouvent au niveau de la zone d'infiltration. En effet, les eaux traitées dans les bacs de filtration sont rejetées directement dans le sol. Il est donc important de vérifier la capacité du terrain à gérer ces effluents. L'une des qualités importantes requises concerne donc la vitesse d'infiltration, laquelle ne doit être ni trop faible ni trop élevée. Ce type de terrain a une vitesse d'environ 15 mm.h<sup>-1</sup>.m<sup>-2</sup> ce qui est apparemment peu élevé mais suffisant.
+Les carottages les plus importants se trouvent au niveau de la zone d'infiltration. En effet, les eaux traitées dans les bacs de filtration sont rejetées directement dans le sol. Il est donc important de vérifier la capacité du terrain à gérer ces effluents. L'une des qualités importantes requises concerne donc la vitesse d'infiltration, laquelle ne doit être ni trop faible ni trop élevée. Ce type de terrain a une vitesse d'environ 15&nbsp;mm.h<sup>-1</sup>.m<sup>-2</sup> ce qui est apparemment peu élevé mais suffisant.
 
 ### 4. Distance entre les bâtiments et les limites du terrain
 
-Avant cette visite, nous avions prévu de placer le filtre planté à un endroit particulier : là où ça nous arrangeait et où l'on pensait qu'il serait possible. C'était sans compter sur les réglementations qui imposent qu'il se situe à plus de 5 m de toute construction et à plus de 3 m de toute limite de propriété.
+Avant cette visite, nous avions prévu de placer le filtre planté à un endroit particulier : là où ça nous arrangeait et où l'on pensait qu'il serait possible. C'était sans compter sur les réglementations qui imposent qu'il se situe à plus de 5&nbsp;m de toute construction et à plus de 3&nbsp;m de toute limite de propriété.
 
 Il ne nous reste plus qu'un seul emplacement possible, ça n'était pas du tout prévu comme ça, mais il faut savoir se faire une raison rapidement. J'imagine que ce type de situation se reproduira et qu'il faut se tenir prêt à abandonner des idées qui paraissaient séduisantes alors qu'on ne connait pas suffisamment de détails, pour se plier à celles qui sont réalistes en connaissance de cause. Suivant les observations de Darwin, restons le moins imperméables au changement si nous voulons survivre dans un monde qui change.
 
 ## Conclusion
 
-Le bureau d'étude va maintenant monter un dossier détaillant le système que nous allons mettre en oeuvre, avec des plans et des mesures. Ce dossier pourra être donné au SPANC afin de pouvoir avancer sur [le permis de construire du chalet]({filename}/chalet/permis_de_construire.md). Le coût de la visite est de 708 euros, elle a durée environ 2h30. C'est officiellement la première dépense du compte joint, et le premier chèque d'un carnet qui risque de perdre pas mal de volume d'ici un an, et à coup de gros sous, c'est le jeu et nous restons satisfaits du fait que ça parte dans des installations écologiquement responsables.
+Le bureau d'étude va maintenant monter un dossier détaillant le système que nous allons mettre en oeuvre, avec des plans et des mesures. Ce dossier pourra être donné au SPANC afin de pouvoir avancer sur [le permis de construire du chalet]({filename}/chalet/permis_de_construire.md). Le coût de la visite est de 708&nbsp;euros, elle a durée environ 2h30. C'est officiellement la première dépense du compte joint, et le premier chèque d'un carnet qui risque de perdre pas mal de volume d'ici un an, et à coup de gros sous, c'est le jeu et nous restons satisfaits du fait que ça parte dans des installations écologiquement responsables.
