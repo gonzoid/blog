@@ -30,7 +30,7 @@ Nous avons utilisé un ferraillage standard (SL35), par contre les éléments ve
 
 <img src="images/chalet/fondations/ferraillage.JPG" style="width:400px"/>
 
-Et voilà le résultat après avoir enlevé le coffrage deux jour après. Sur la photo une semelle est hors champs mais il y en a bien 4 en tout.
+Et voilà le résultat après avoir enlevé le coffrage deux jour après. Sur la photo une semelle est hors-champ mais il y en a bien 4 en tout.
 
 <img src="images/chalet/fondations/rendu_semelles2.JPG"/>
 
